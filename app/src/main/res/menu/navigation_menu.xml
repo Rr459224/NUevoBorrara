@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/crearNuevaLista"
+            android:icon="@drawable/ic_new"
+            android:title="Crear lista compra"/>
+        <item
+            android:id="@+id/cargarListaReciente"
+            android:icon="@drawable/ic_load"
+            android:title="Mostrar lista de la compra" />
+        <item
+            android:id="@+id/ayuda"
+            android:icon="@drawable/ic_help"
+            android:title="Ayuda"/>
+    </group>
+</menu>
